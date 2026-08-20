@@ -1,0 +1,11 @@
+Airdrop Farming ROI â€” Sample Dataset
+
+Historical cryptocurrency airdrop analysis across 20 major protocols. Tracks farming cost, actual payouts, ROI, eligibility criteria, and complexity for airdrops from 2020-2026 on Ethereum, Base, Arbitrum, Optimism, Solana, and Cosmos.
+
+Key insights: Hyperliquid delivered 19,688% ROI ($50 cost â†’ $9,894 payout). Speculative farming (Base, Linea) often returns negative ROI. Retroactive airdrops (Uniswap, Arbitrum) paid best with zero cost.
+
+Ideal for: airdrop strategy optimization, token launch research, cost-benefit analysis, prediction modeling, academic research.
+
+Full dataset: 80+ airdrops with eligibility breakdowns, vesting schedules, and post-TGE price performance. Available on Payhip.
+
+Format: CSV with schema documentation. 20 rows in sample.
