@@ -1,0 +1,21 @@
+protocol,token_symbol,airdrop_date,total_tokens_dropped,total_value_usd,farmers_count,avg_farming_duration_days,est_farming_cost_usd,avg_payout_per_farmer_usd,median_payout_usd,roi_pct,eligibility_criteria,farming_complexity,chain
+Aerodrome,AERO,2024-02-21,500000000,125000000,85000,45,25,1470,320,5780,low,veNFT lock + LP,Base
+Morpho,MORPHO,2024-11-18,1000000000,85000000,62000,90,150,1370,180,813,medium,Lend/borrow volume,Base
+Uniswap,UNI,2020-09-17,150000000,450000000,251000,0,0,1793,400,N/A,low,Historical users,Ethereum
+Optimism,OP,2022-05-31,214748364,450000000,248000,0,0,1815,700,N/A,low,Bridge + activity,Optimism
+Arbitrum,ARB,2023-03-23,1627800000,1800000000,625000,0,0,2880,1250,N/A,low,Bridge + TX count,Arbitrum
+ZkSync,ZK,2024-06-11,1750000000,875000000,695000,180,80,1259,210,1473,medium,TX count + value,Ethereum
+Linea,LINEA,2024-12-01,2000000000,400000000,420000,120,200,952,85,376,high,POH + TX count,Ethereum
+Base,none,2026-08-01,0,0,150000,365,500,0,0,-100,high,Continuous speculation,Base
+Scroll,SCR,2024-10-22,1000000000,550000000,380000,210,120,1447,380,1106,medium,Bridge + contracts,Ethereum
+Hyperliquid,HYPE,2024-11-29,310000000,930000000,94000,60,50,9894,2850,19688,medium,Perp trading volume,Arbitrum
+Puffer,PUFFER,2024-10-14,750000000,375000000,280000,150,100,1339,250,1239,high,Native stake + restake,Ethereum
+Ethena,ENA,2024-04-02,750000000,675000000,95000,30,20,7105,2500,35425,low,USDe hold duration,Ethereum
+Jito,JTO,2023-12-07,1000000000,500000000,99000,0,0,5051,1800,N/A,low,Solana stake history,Solana
+Kamino,KMNO,2024-04-30,750000000,375000000,120000,90,75,3125,450,4067,medium,Lend/borrow volume,Solana
+Tensor,TNSR,2024-04-08,1250000000,625000000,290000,0,0,2155,420,N/A,low,NFT trading volume,Solana
+Axiom,AXIOM,2025-03-15,500000000,200000000,85000,180,300,2353,180,684,high,ZK proof generation,Ethereum
+Taiko,TAIKO,2024-06-05,1000000000,300000000,320000,200,180,938,95,421,medium,Node operation + TX,Ethereum
+Starknet,STRK,2024-02-20,7000000000,2100000000,1290000,270,250,1628,250,551,high,TX count + fees,Ethereum
+Celestia,TIA,2023-10-31,267000000,1400000000,580000,0,0,2414,170,N/A,low,Genesis validators,Cosmos
+Dymension,DYM,2024-02-06,700000000,490000000,528000,0,0,928,35,N/A,low,Cosmos stake snapshot,Cosmos
